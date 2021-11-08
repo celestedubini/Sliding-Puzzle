@@ -1,4 +1,6 @@
-# Sliding-Puzzle
+# 🧩 Sliding Puzzle
+
+ <img src="./Sliding Puzzle.jpg" />
 
 The exercise was to implement a Sliding puzzle game. I had to make use of JavaScript/TypeScript
 and CSS/HTML.
