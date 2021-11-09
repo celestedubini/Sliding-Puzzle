@@ -33,7 +33,7 @@ BODY {
   width: 190px;
   height: 190px;
   border: 1px solid white;
-  background: url(".mrmr_photo_2.jpeg");
+  background: url("https://raw.githubusercontent.com/celestedubini/Sliding-Puzzle/main/mrmr_photo_2.jpeg");
   cursor: pointer;
 }
 
